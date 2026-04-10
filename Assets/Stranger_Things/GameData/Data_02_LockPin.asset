@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a5e8e1f235c2e4408efe18903c9f40f, type: 3}
+  m_Name: Data_02_LockPin
+  m_EditorClassIdentifier: 
+  backgroundPhoto: {fileID: -6280184003268750543, guid: 12de8da3aaeabb449a0f016680d8ce21, type: 3}
+  apiGameId: 0
+  gameName: Sheriff's Log Terminal
+  introSentences:
+  - Evidence sealed after the first incident contains Weapon Zero schematics.
+  sceneName: Lockpick
+  winSentences:
+  - Target delivered. The bats are retreating. Good work, Eleven.
+  - Proceed to the next coordinates.

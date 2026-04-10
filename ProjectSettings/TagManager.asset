@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Obstacle
+  - Scoring
+  - EnemyMissile
+  - Missile
+  - Tile
+  - Ship
+  - Ground
+  - Spike
+  - YellowOrb
+  - BlueOrb
+  - CinemachineTarget
+  - obstacle
+  - Audio
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1429634729
+    locked: 0
+  - name: Roads
+    uniqueID: 2307307511
+    locked: 0
+  - name: Obstacle
+    uniqueID: 3665408045
+    locked: 0
+  - name: Player
+    uniqueID: 1744088317
+    locked: 0
+  - name: UI
+    uniqueID: 1411551343
+    locked: 0
+  m_RenderingLayers:
+  - Default

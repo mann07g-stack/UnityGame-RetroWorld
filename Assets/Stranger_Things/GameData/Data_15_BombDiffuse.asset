@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a5e8e1f235c2e4408efe18903c9f40f, type: 3}
+  m_Name: Data_15_BombDiffuse
+  m_EditorClassIdentifier: 
+  backgroundPhoto: {fileID: -1678882623058546695, guid: e7236dbf433f8144194b86723112836d, type: 3}
+  apiGameId: 0
+  gameName: CountDown Entity
+  introSentences:
+  - Rift collapse imminent.
+  sceneName: WireDisarm
+  winSentences:
+  - Target delivered. The bats are retreating. Good work, Eleven.
+  - Proceed to the next coordinates.

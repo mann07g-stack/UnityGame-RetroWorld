@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a5e8e1f235c2e4408efe18903c9f40f, type: 3}
+  m_Name: Data_03_PianoTiles
+  m_EditorClassIdentifier: 
+  backgroundPhoto: {fileID: 3326819371635975415, guid: 29296b71b3dc06f43ac8c63ce58f13bc, type: 3}
+  apiGameId: 0
+  gameName: Music Teacher's echo
+  introSentences:
+  - "Sound frequencies weaken Vecna\u2019s hold."
+  sceneName: FlappyBird
+  winSentences:
+  - Target delivered. The bats are retreating. Good work, Eleven.
+  - Proceed to the next coordinates.
